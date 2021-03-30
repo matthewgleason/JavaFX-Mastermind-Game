@@ -69,23 +69,6 @@ class MastermindController {
 
 }
 ```
- 
 
-You are to provide the implementation of all three classes, but you must define your controller and model using at least the methods above. Any additional methods or fields you want to add must be private to your classes.
-
-## Hints and Notes
-
-* For right color, wrong place, you will need to not count colors from the guess that are the right color in the right place.
-* You also need to avoid double counting a color as being in the wrong position
-* To help you solve these issues, you may find it necessary to make some auxiliary arrays that keep track of what you have used already
-* You may want to play the game on paper where you consider various guesses and solutions and score them to see the issue. 
-
-* The perfect player can always win this game in 7 guesses or less.
-
-## Submission
-
-Make sure to periodically commit and push your changes to github. 
-
-We will grade the last commit that was pushed prior to the deadline.
 
  
