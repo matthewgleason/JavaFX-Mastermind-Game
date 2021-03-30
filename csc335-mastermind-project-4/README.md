@@ -2,6 +2,8 @@
 
 Your first project is to implement the game of Mastermind. In this game, the computer chooses 4 pegs each with one of 6 colors.  The player's job is then to guess the colors that the computer has chosen in the proper order. After each guess by the player, if the player's guess is not correct, the computer will give two numbers as feedback.  The first number is how many pegs are the proper color and in the proper position. The second number is how many pegs are the proper color, but not in the correct position.
 
+Recently added, their is a GUI that allows the user to be provided the same game, just from a graphics perspective.
+
 The game ends when the color string is correct -- and the player wins -- or they give 10 incorrect guesses -- and they lose.
 What you need to do:
 
